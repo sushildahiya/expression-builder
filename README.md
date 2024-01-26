@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Hosted URL: https://expression-builder-git-main-sushils-projects-5ce2d618.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
